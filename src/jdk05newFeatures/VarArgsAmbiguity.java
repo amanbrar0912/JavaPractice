@@ -1,5 +1,5 @@
 //   VarArgs and Overloading ambiguity.
-package javaFeatures;
+package jdk05newFeatures;
 
 public class VarArgsAmbiguity {
 

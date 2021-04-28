@@ -10,7 +10,7 @@
  * 4. Remember, the varargs parameter must be last.
  * 5. There must be only one varargs parameter.
 */
-package javaFeatures;
+package jdk05newFeatures;
 
 public class VarArgs {
 
@@ -30,7 +30,7 @@ public class VarArgs {
 	}
 	
 	//static void doIt(int n, String s, int ...v) {} //perfectly fine
-	//int doIt(int a, int b, double c, int ... vals, boolean stopFlag) {} // ERROR!
-	//int doIt(int a, int b, double c, int ... vals, double ... morevals) {} // Error!
+	//int doIt(int a, int b, double c, int ... vals, boolean stopFlag) {} // ERROR! // VarArgs argument and Parameter must hold the last place.
+	//int doIt(int a, int b, double c, int ... vals, double ... morevals) {} // Error! // only one VarArgs argument per method.
 }
 

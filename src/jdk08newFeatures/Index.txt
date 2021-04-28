@@ -1,0 +1,21 @@
+P1. Implementing Thread without Lambda expression.
+P2. Implementing Thread with Lambda expression.
+
+P3. Sorting an ArrayList with Comparator without Lambda.
+P4. Sorting an ArrayList with Comparator with Lambda.
+
+P5. Lambda Expression with user built classes.
+
+P6. Implementing Thread with Anonymous Inner classes. //Anonymous inner classes is NOT a part of jdk 1.8 update.
+P7. Implementing Thread with Lambda expression replacing Anonymous Inner class.
+P8. Anonymous inner class is powerful than Lambda expressions. 
+	Bcoz there are certain scenarios where we can only implement AIC concept but not Lambda Expressions.
+
+P9. Default methods in interface (ver 1.8 enhancement)
+p10. Multiple inheritence of Interfaces in java using default methods.
+
+p11. Static method in interface. (ver 1.8 enhancement)
+p12. is it possible to place main() inside an interface??
+
+p13. Even or odd ? Predicate with lambda.
+p14. Predicte to check if length of a String is > 5 or not.

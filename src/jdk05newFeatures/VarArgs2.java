@@ -2,7 +2,7 @@
 1. VarArgs argument should take last place.
 2. There must be at most one VarArgs argument/parameter.
 */
-package javaFeatures;
+package jdk05newFeatures;
 
 public class VarArgs2 {
 	public static void main(String[] args) {
